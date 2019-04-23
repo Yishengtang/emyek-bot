@@ -1,0 +1,10 @@
+Scanner verify failed
+Missing but ignored transponder!
+Cameras critical!
+[CRITICAL] CUTTER STUCK
+Changed from ALL_SYSTEMS_GO to MAINTENANCE.
+Changed from DEGRADED to MAINTENANCE.
+Changed from MAINTENANCE to ALL_SYSTEMS_GO.
+Changed from MAINTENANCE to DEGRADED.
+Changed from ALL_SYSTEMS_GO to DEGRADED.
+Changed from DEGRADED to ALL_SYSTEMS_GO.
